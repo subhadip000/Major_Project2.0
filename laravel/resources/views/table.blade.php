@@ -97,7 +97,14 @@
 
       </ul>
     </div>
+    <!------>
+    <div class="sidenav-footer mx-3 ">
+      <div class="card card-plain shadow-none" id="sidenavCard">
 
+      </div>
+      <a href="" target="_blank" class="btn btn-dark btn-sm w-100 mb-3" type="button">Log Out</a>
+    </div>
+    <!----->
   </aside>
   <main class="main-content position-relative border-radius-lg ">
     <!-- Navbar -->
@@ -117,10 +124,10 @@
           </div>
           <ul class="navbar-nav  justify-content-end">
             <li class="nav-item d-flex align-items-center">
-              <!-- <a href="javascript:;" class="nav-link text-white font-weight-bold px-0">
+              <a href="javascript:;" class="nav-link text-white font-weight-bold px-0">
                 <i class="fa fa-user me-sm-1"></i>
-                <span class="d-sm-inline d-none">Sign In</span>
-              </a> -->
+                <span class="d-sm-inline d-none">User Name</span>
+              </a>
             </li>
             <li class="nav-item d-xl-none ps-3 d-flex align-items-center">
               <a href="javascript:;" class="nav-link text-white p-0" id="iconNavbarSidenav">
